@@ -8858,11 +8858,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Masseria\\source\\repos\\NyousAPI\\NyousAPI.csproj",
+      "projectUniqueName": "C:\\Breno USA\\Senai 2 Semestre\\NyousAPI\\NyousAPI\\NyousAPI.csproj",
       "projectName": "NyousAPI",
-      "projectPath": "C:\\Users\\Masseria\\source\\repos\\NyousAPI\\NyousAPI.csproj",
+      "projectPath": "C:\\Breno USA\\Senai 2 Semestre\\NyousAPI\\NyousAPI\\NyousAPI.csproj",
       "packagesPath": "C:\\Users\\Masseria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Masseria\\source\\repos\\NyousAPI\\obj\\",
+      "outputPath": "C:\\Breno USA\\Senai 2 Semestre\\NyousAPI\\NyousAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Masseria\\AppData\\Roaming\\NuGet\\NuGet.Config",

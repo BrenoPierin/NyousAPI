@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AtyFV5xWqllwkz/z8pWnvEa+DGNFIb0XoFVTP7iHrwoMeMVgFX4hJJVvcmNir8y6JIxObObnFfyh71NPPDOtbg==",
+  "dgSpecHash": "uftuXOJzHO3XdvODRsibjnHc/Ax/I149oRzlugxb8z740Elk8xIjrU0eQqTvBrNQInYeVwiRY+gDBkcRNHi1gw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Masseria\\source\\repos\\NyousAPI\\NyousAPI.csproj",
+  "projectFilePath": "C:\\Breno USA\\Senai 2 Semestre\\NyousAPI\\NyousAPI\\NyousAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Masseria\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.8\\microsoft.aspnetcore.authentication.jwtbearer.3.1.8.nupkg.sha512",
     "C:\\Users\\Masseria\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

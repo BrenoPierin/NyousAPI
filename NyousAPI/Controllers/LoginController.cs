@@ -12,6 +12,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using NyousAPI.Domains;
+using NyousAPI.Utils;
 
 namespace NyousAPI.Contexts
 {
@@ -32,6 +33,9 @@ namespace NyousAPI.Contexts
 
         private Usuario AuthenticateUser(Usuario login)
         {
+            //criptografar a senha
+            login.Senha = Crypto.Criptografar(login.Senha, login.Email.Substring(0, 4));
+
             return _context.Usuario
                 .Include(a => a.IdAcessoNavigation)
                 .FirstOrDefault(u => u.Email == login.Email && u.Senha == login.Senha);
